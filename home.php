@@ -27,7 +27,7 @@
 	<!--Banner.-->
 
 	<?php
-	include './ecom-header.php';
+	include 'ecom-header.php';
 	?>
 
 				<ul class="breadcrumbs">
