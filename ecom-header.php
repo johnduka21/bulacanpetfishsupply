@@ -29,9 +29,9 @@
 	<nav>
         <div class="navBar">
             <div class="container">
-                <a href="home.php">Bulacan Pet Fish Supply</a>
-                <a class ="nav-btn" href="home.php">Home</a>
-                <a href="ecom-fish-category.php">Fish</a>
+                <a href="./home.php">Bulacan Pet Fish Supply</a>
+                <a class ="nav-btn" href="./home.php">Home</a>
+                <a href="./ecom-fish-category.php">Fish</a>
                 <a href="#">Aquarium</a>
                 <a href="#">Accessories</a>
                 <?php
